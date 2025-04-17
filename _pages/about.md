@@ -9,9 +9,7 @@ redirect_from:
 
 <!-- Biography
 ====== -->
-I am about to graduate with a bachelor's degree in June and will begin my direct-entry Ph.D. in September in the School of Computer Science and Engineering at Sun Yat-sen University.
-
-My research interest is High Performance Computing and Computer Architecture. Currently I am focusing on the hardware software co-design on National Supercomputer II in ShenZhen.
+I am about to graduate with a bachelor's degree in June and will begin my direct-entry Ph.D. in September in the School of Computer Science and Engineering at Sun Yat-sen University. My research interest is High Performance Computing and Computer Architecture. Currently I am focusing on the hardware software co-design on National Supercomputer II in ShenZhen.
 
 Awards
 ======
