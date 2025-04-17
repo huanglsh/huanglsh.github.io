@@ -1,4 +1,19 @@
----
+Biography
+======
+I am about to graduate with a bachelor's degree in June and will begin my direct-entry Ph.D. in September in the School of Computer Science and Engineering at Sun Yat-sen University.
+
+My research interest is High Performance Computing and Computer Architecture. Currently I am focusing on the hardware software co-design on National Supercomputer II in ShenZhen.
+
+Awards
+======
+* [Silver Prize (Second Place)](http://www.asc-events.org/StudentChallenge/History/2024/index.html), ASC'24 Student Supercomputer Challenge, Apr 2024
+* [CCF Elite Collegiate Award](https://www.ccf.org.cn/Awards/Awards/2024-08-12/828705.shtml), Oct 2024
+* [First Prize](https://mp.weixin.qq.com/s/Z1DQNGgksM0g6vAftsmKuA), PAC’24 China Parallel Application Challenge（Optimization Track）, Step 2024
+* Second Place, SC 24 SCC(virtual), Dec 2024
+* AEON Scholarship, Sun Yat-sen University, Oct 2023
+* First-Class Scholarship, Sun Yat-Sen University, Oct 2023
+
+<!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -46,4 +61,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
