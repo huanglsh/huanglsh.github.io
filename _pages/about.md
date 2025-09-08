@@ -9,10 +9,12 @@ redirect_from:
 
 <!-- Biography
 ====== -->
-I am about to graduate with a bachelor's degree in June and will begin my direct-entry Ph.D. in September in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://cse.sysu.edu.cn/). My research interest is **High Performance Computing** and **Computer Architecture**. Currently I am focusing on Architecture-Specific Software Optimization on National Supercomputer-II in ShenZhen.
+I am a first-year Ph.D. student in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://cse.sysu.edu.cn/). I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2025.
+My research interest is **High Performance Computing** and **Computer Architecture**. Currently I am focusing on Architecture-Specific Software Optimization on National Supercomputer-II in ShenZhen.
 
 Awards
 ======
+* President Scholarship, Sun Yat-sen University, Sep 2025
 * [Silver Prize (Second Place)](http://www.asc-events.org/StudentChallenge/History/2024/index.html), ASC'24 Student Supercomputer Challenge, Apr 2024
 * [CCF Elite Collegiate Award](https://www.ccf.org.cn/Awards/Awards/2024-08-12/828705.shtml), Oct 2024
 * [First Prize](https://mp.weixin.qq.com/s/Z1DQNGgksM0g6vAftsmKuA), PAC’24 China Parallel Application Challenge（Optimization Track）, Sep 2024
