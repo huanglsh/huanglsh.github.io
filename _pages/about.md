@@ -12,6 +12,10 @@ redirect_from:
 I am a first-year Ph.D. student in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://cse.sysu.edu.cn/). I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2025.
 My research interest is **High Performance Computing** and **Computer Architecture**. Currently I am focusing on Architecture-Specific Software Optimization on National Supercomputer-II in ShenZhen.
 
+Publications
+======
+* [Date'26, CCF-B] KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor, Lanshu Huang, Han Huang, Zhiguang Chen, Yutong Lu
+
 Awards
 ======
 * President Scholarship, Sun Yat-sen University, Sep 2025
