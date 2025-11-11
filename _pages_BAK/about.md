@@ -13,7 +13,7 @@ I am about to graduate with a bachelor's degree in June and will begin my direct
 
 Publications
 ======
-* [Date'26, CCF-B] KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor, Lanshu Huang, Han Huang, Zhiguang Chen, Yutong Lu
+* [Date'26, CCF-B] KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor, **Lanshu Huang**, Han Huang, Zhiguang Chen, Yutong Lu
 
 Awards
 ======
