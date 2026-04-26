@@ -14,7 +14,7 @@ My research interest is **High Performance Computing** and **Computer Architectu
 
 Publications
 ======
-* [Date'26, CCF-B] KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor, Lanshu Huang, Han Huang, Zhiguang Chen, Yutong Lu
+* 🏆 **Best Paper Award!** [Date'26, CCF-B] **Lanshu Huang**, Han Huang, Zhiguang Chen, Yutong Lu, [KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor](https://www.date-conference.com/proceedings-archive/2026/DATA/316.pdf)
 
 Awards
 ======
